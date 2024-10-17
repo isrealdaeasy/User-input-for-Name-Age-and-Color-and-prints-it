@@ -1,0 +1,7 @@
+print(f"User input for Name, Age and Color and prints it \n ")
+
+name = input("Kindly Supply Your Full name ")
+age = int(input("Kindly Supply your Age "))
+color = input("Kindly Supply your Favorite Color ")
+
+print (f"Your name is {name}, your age is {age} and your favorite color is {color} ")
